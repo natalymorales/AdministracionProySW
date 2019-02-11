@@ -1,2 +1,3 @@
 # AdministracionProySW
-Tarea2. EquipoAdmonProySW
+Tarea2. Equiphuk,lgui
+
